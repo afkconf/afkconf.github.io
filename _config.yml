@@ -1,16 +1,23 @@
-# Example Site settings
+# AFK.conf — site settings
+
+title: "AFK.conf"
+description: "Encontro mensal de hacking e segurança em Aracaju-SE. Away From Keyboard."
+lang: pt-BR
 
 #google_analytics: UA-NNNNNNNN-N
+
+# Usado no masthead (Vol.XX)
+volume: "01"
 
 header_pages:
    - index.md
    - talks.md
-   - imadges.md
+   - artigos.md
 
-footer: '<a href="http://phrack.org">phrack.org</a> | <a href="https://www.h2hc.com.br/h2hc/pt/evento">H2HC</a> | <a href="https://nullbyte-con.org/">NullByte</a> | <a href="https://www.x33fcon.com/#!about.md">x33fcon</a> | <a href="https://defcon.org/html/links/dc-faq/dc-faq.html">DEFCON</a> | <a href="https://www.cajusec.com.br/">CajuSEC</a> | <a href="https://hackbahia.github.io">HackBahia</a>'
+footer: '<a href="https://www.h2hc.com.br/h2hc/pt/evento">H2HC</a> · <a href="https://nullbyte-con.org/">NullByte</a> · <a href="https://www.cajusec.com.br/">CajuSEC</a> · <a href="https://hackbahia.github.io">HackBahia</a> · <a href="https://alligatorcon.com/">AlligatorCon</a> · <a href="https://conference.oxehc.com.br/">Ox3</a>'
 
-style: hacker # dark (default) or light
-# listen_for_clients_preferred_style: true # true or false (default)
+style: amber # amber (CRT âmbar, estilo phrack), dark, light ou hacker
+# listen_for_clients_preferred_style: true
 
 plugins:
   - jekyll-seo-tag

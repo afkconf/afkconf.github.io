@@ -1,0 +1,42 @@
+/**
+ * Amber CRT theme — papel escuro, fósforo âmbar. Identidade estilo phrack.
+ */
+
+:root {
+  --base-color: #ffb000;                       /* âmbar fósforo (texto) */
+  --bright-color: #ffd37a;                      /* destaques / títulos */
+  --dim-color: #b07d2b;                         /* secundário / muted */
+  --background-color: #15110a;                  /* papel escuro quente */
+  --panel-bg: #1e1710;                          /* faixa listrada (ímpar) */
+  --panel-bg-2: #251d12;                        /* faixa listrada (par) */
+  --bar-bg: #3a2a10;                            /* barra de seção preenchida */
+  --border: dashed 1px rgba(255, 176, 0, 0.45);
+  --rule-solid: solid 1px rgba(255, 176, 0, 0.55);
+  --rule-faint: rgba(255, 176, 0, 0.16);
+  --row-hover: rgba(255, 176, 0, 0.14);
+  --glow: 0 0 6px rgba(255, 176, 0, 0.35);
+  --selection-background: rgba(255, 176, 0, 0.99);
+  --selection-text: #15110a;
+  --text-color: var(--base-color);
+  --placeholder-color: var(--dim-color);
+  --link-color: var(--base-color);
+
+  --code-color-1: #9b7636;
+  --code-color-2: #2a1f12;
+  --code-color-3: #ff6b4a;
+  --code-color-4: #3a1a12;
+  --code-color-5: #ffd37a;
+  --code-color-6: #c9a227;
+  --code-color-7: #e0a95a;
+  --code-color-8: #ffcf4d;
+  --code-color-9: #d4b36a;
+  --code-color-10: #9b7636;
+  --code-color-11: #7a5c24;
+  --code-color-12: #d98a4a;
+  --code-color-13: #ffc14d;
+  --code-color-14: #e8b85c;
+  --code-color-15: #f0a84a;
+  --code-color-16: #ffcf7a;
+  --code-color-17: #c0601a;
+  --code-color-18: #b89a5a;
+}

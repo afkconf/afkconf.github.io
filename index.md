@@ -1,10 +1,11 @@
 ---
-title: 0x01 - Ínicio
+title: "0x01 - Início"
+nav: sobre
 layout: home
 permalink: /
 ---
 
-# Bem vindo(a)!
+## [ sobre ]
 
 AFK.conf foi criado com o intuito de movimentar a cena hacker/SI em Aracaju, proporcionando encontros mensais com apresentações técnicas de segurança ofensiva e defensiva, em um ambiente informal acompanhado com algumas cervejas.
 
@@ -12,11 +13,19 @@ No fim, a ideia é compartilhar conhecimento, mostrar novas (e velhas) técnicas
 
 As reuniões estão abertas a qualquer pessoa, independentemente de sua habilidade, idade, trabalho, gênero, etc.
 
-[+] Encontros
+> O nome é um aceno ao documentário _TPB AFK: The Pirate Bay — Away From Keyboard_ (2013).
 
-Os encontros não serão gravados nem existe a possibilidade de palestras online. Todas as palestras deverão ser proporcionadas por pessoas que estão fisicamente no local para pessoas que estão fisicamente no local (AFK ¯\\_(ツ)_/¯).
 
-Para manter a rotatividade e instigar para que todos tenham o espaço e experiencia de realizar uma palestra, fica vetado que o mesmo palestrante apresente em dois encontros seguidos.
+## [ encontros ]
 
-[!] Trate todos com respeito!
+`[+]` Os encontros **não** são gravados e não existe palestra online. Toda palestra é feita por quem está fisicamente no local, para quem está fisicamente no local (AFK `¯\_(ツ)_/¯`).
 
+`[+]` Para manter a rotatividade, o mesmo palestrante não apresenta em dois encontros seguidos.
+
+`[!]` Trate todos com respeito.
+
+## [ índice ]
+
+- `0x01` sobre ............ você está aqui
+- `0x02` [talks](/talks/) ............ arquivo de palestras (2022 →)
+- `0x03` [artigos](/artigos/) .......... textos da comunidade
