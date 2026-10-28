@@ -11,7 +11,7 @@ volume: "01"
 
 header_pages:
    - index.md
-   - talks.md
+   - palestras.md
    - artigos.md
 
 footer: '<a href="https://www.h2hc.com.br/h2hc/pt/evento">H2HC</a> · <a href="https://nullbyte-con.org/">NullByte</a> · <a href="https://www.cajusec.com.br/">CajuSEC</a> · <a href="https://hackbahia.github.io">HackBahia</a> · <a href="https://alligatorcon.com/">AlligatorCon</a> · <a href="https://conference.oxehc.com.br/">Ox3</a>'

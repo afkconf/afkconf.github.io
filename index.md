@@ -27,5 +27,5 @@ As reuniões estão abertas a qualquer pessoa, independentemente de sua habilida
 ## [ índice ]
 
 - `0x01` sobre ............ você está aqui
-- `0x02` [talks](/talks/) ............ arquivo de palestras (2022 →)
+- `0x02` [palestras](/palestras/) ........ arquivo de palestras (2022 →)
 - `0x03` [artigos](/artigos/) .......... textos da comunidade

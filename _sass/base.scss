@@ -81,6 +81,13 @@ main h3 { color: var(--bright-color);  margin: 22px 0 4px; }
 table { width: 100%;  border-collapse: collapse;  margin: 8px 0 20px; }
 thead th { text-align: left;  background: var(--bar-bg);  color: var(--bright-color);  padding: 5px 10px;  font-weight: bold; }
 tbody td { text-align: left;  padding: 4px 10px;  vertical-align: top; }
+tbody td:nth-last-child(2) { white-space: nowrap; } /* autor/palestrante: nome não quebra */
+
+/* índice de edições por ano (página Palestras) */
+.ano-index { display: flex;  flex-wrap: wrap;  gap: 4px 2px;  margin: 2px 0 16px;  padding: 0; }
+.ano-index button { font: inherit;  cursor: pointer;  background: transparent;  border: 0;  color: var(--dim-color);  padding: 2px 6px; }
+.ano-index button:hover { color: var(--bright-color); }
+.ano-index button[aria-pressed="true"] { color: var(--base-color);  font-weight: bold;  text-decoration: underline; }
 tbody tr:nth-child(odd) { background: var(--panel-bg); }
 tbody tr:nth-child(even) { background: var(--panel-bg-2); }
 tbody tr:hover { background: var(--base-color); }
