@@ -123,6 +123,9 @@ permalink: /palestras/
 | 42 | 01/09 | CTF                                                       | Filipe Cordeiro |        |
 | 43 | 06/10 | Arandu - Criando uma central de investigação eficiente   | Ubiratan Souza   |        |
 | 43 | 06/10 | We need to talk about... MaaS frameworks                 | Euler Neto       |        |
-| 43 | 06/10 | RatGBA - Criando um emulador de GBA em Go                | Marco Antonio    | [pdf](/assets/slides/slides/RatGBA%20-%20Emulador%20GBA%20em%20Go.pdf) |
+| 43 | 06/10 | RatGBA - Criando um emulador de GBA em Go                | Marco Antonio    | [pdf](/assets/slides/RatGBA%20-%20Emulador%20GBA%20em%20Go.pdf) |
+| 44 | 17/11 | QRCode Phishing                                          | Filipe Cordeiro  |        |
+| 44 | 17/11 | The Windows Kernel Architecture                          | Yuri Maia        |        |
+| 44 | 17/11 | Extração de inteligência de ameaças cibernéticas com poucos dados | Filippi Reis |      |
 
 <script src="{{ '/assets/js/palestras-index.js' | relative_url }}" defer></script>
