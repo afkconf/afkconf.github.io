@@ -123,6 +123,6 @@ permalink: /palestras/
 | 42 | 01/09 | CTF                                                       | Filipe Cordeiro |        |
 | 43 | 06/10 | Arandu - Criando uma central de investigação eficiente   | Ubiratan Souza   |        |
 | 43 | 06/10 | We need to talk about... MaaS frameworks                 | Euler Neto       |        |
-| 43 | 06/10 | RatGBA - Criando um emulador de GBA em Go                | Marco Antonio    | [pdf](/assets/slides/slides/RatGBA - Emulador GBA em Go.pdf) |
+| 43 | 06/10 | RatGBA - Criando um emulador de GBA em Go                | Marco Antonio    | [pdf](/assets/slides/slides/RatGBA%20-%20Emulador%20GBA%20em%20Go.pdf) |
 
 <script src="{{ '/assets/js/palestras-index.js' | relative_url }}" defer></script>
