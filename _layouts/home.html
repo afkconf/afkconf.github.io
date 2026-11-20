@@ -9,7 +9,7 @@ layout: default
   <div class="corpo">
     <p class="linha">{{ ev.data }}{% if ev.hora and ev.hora != "" %} &middot; {{ ev.hora }}{% endif %} &middot; local: {{ ev.local }}</p>
     {%- if ev.link and ev.link != "" %}
-    <p class="cta">&gt;&gt; confirmar presença: <a href="{{ ev.link }}">{{ ev.link }}</a></p>
+    <p class="cta">&gt;&gt; <a href="{{ ev.link }}">{{ ev.link }}</a></p>
     {%- endif %}
     {%- if ev.chamada and ev.chamada != "" %}
     <p class="chamada">{{ ev.chamada }}</p>
